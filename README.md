@@ -3,7 +3,8 @@
 Trabalhos de programas em java feitos para a disciplina de Programação Orientada a Objetos da Universidade Federal Fluminense - UFF
 no curso de Sistemas de Informação.
 
-Dupla: Daiane S. Macedo, João Gabriel C. Melo
+Dupla: Daiane S. Macedo: https://github.com/Daiane-Macedo
+João Gabriel C. Melo
 
 Obs: os trabalhos têm todas as classes no mesmo arquivo por preferência do professor.
 
