@@ -1,8 +1,14 @@
 # POO-trabalhos_java
 
+<<<<<<< HEAD
 Trabalhos de programas em java feitos para a disciplina de Programação Orientada a Objetos.
 Universidade Federal Fluminense - UFF.
 Curso de Sistemas de Informação.
+=======
+Trabalhos de programas em java feitos para a disciplina de ProgramaÃ§Ã£o Orientada a Objetos.
+Universidade Federal Fluminense - UFF.
+Curso de Sistemas de InformaÃ§Ã£o.
+>>>>>>> 341569fc418cc4c7daf2b91bd742292c88225b5b
 
 Dupla: Daiane S. Macedo: https://github.com/Daiane-Macedo
 João Gabriel C. Melo
@@ -19,5 +25,9 @@ Para executar no NetBeans
 
 Obs: se algum arquivo precisar ser manupilado, ele deve ficar na mesma pasta do projeto, ou o diretório correto deve ser especificado no código do programa.
 
+<<<<<<< HEAD
+=======
+Obs: se algum arquivo precisar ser manupilado, ele deve ficar na mesma pasta do projeto, ou o diretÃ³rio correto deve ser especificado no cÃ³digo do programa.
+>>>>>>> 341569fc418cc4c7daf2b91bd742292c88225b5b
 
 
