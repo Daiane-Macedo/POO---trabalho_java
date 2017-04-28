@@ -1,7 +1,7 @@
 # POO-trabalhos_java
 
-Trabalhos de programas em java feitos para a disciplina de Programação Orientada a Objetos
-Universidade Federal Fluminense - UFF
+Trabalhos de programas em java feitos para a disciplina de Programação Orientada a Objetos.
+Universidade Federal Fluminense - UFF.
 Curso de Sistemas de Informação.
 
 Dupla: Daiane S. Macedo: https://github.com/Daiane-Macedo
